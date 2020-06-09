@@ -1,0 +1,24 @@
+{
+  "name": "clean-tdd",
+  "version": "1.0.0",
+  "description": "Project with NodeJs, CleanArch and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoPSV/node-clean-tdd.git"
+  },
+  "author": "joao_pedu <joao.p1@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaoPSV/node-clean-tdd/issues"
+  },
+  "homepage": "https://github.com/joaoPSV/node-clean-tdd#readme",
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.9",
+    "standard": "^14.3.4"
+  }
+}
